@@ -3,7 +3,7 @@
   <br>
 </h1>
 
-<img src="./assets/usage1.png" alt="usage">
+<img src="./assets/usage.png" alt="usage">
 <p align="center">Access the Website <a href="https://lurdecabolos.netlify.app/" target="_blank">here</a>.<br>There is also a QR Code available!</p>
 
 <p align="center">
